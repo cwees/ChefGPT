@@ -1,0 +1,1 @@
+#Utilizes OpenAI's ChatGPT API to generate recipes based of a list of ingredients at hand
